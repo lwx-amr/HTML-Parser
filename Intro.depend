@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1568258724 source:/home/amr/Public/Study/True Software Eng/HackerRank/Intro/main.cpp
+	<bits/stdc++.h>
+
+1579556777 source:/home/amr/Public/Study/HackerRank/Intro/main.cpp
+	<iostream>
+	<cstdio>
+
+1592151420 source:/home/amr/Career/Study/HackerRank/Intro/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<map>
+	<sstream>
+
